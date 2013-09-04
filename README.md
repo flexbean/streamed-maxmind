@@ -49,3 +49,5 @@ maxmind.stream_init({
 - Download
 - Optionally cipher/decipher
 - Gzip/Gunzip automatically appied if source or target paths end with .gz
+
+## License: MIT
