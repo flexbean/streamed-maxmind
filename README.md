@@ -1,11 +1,7 @@
 # streamed-maxmind
 
-Stream load maxmind data to incorporate geoip database updates without needed restarting node.
-This wraps [runk/node-maxmind](https://github.com/runk/node-maxmind).
-
-## Why?
-
-To enable maxmind geoip data updates, paid or lite, without restarting node.
+Stream load maxmind data to enable maxmind geoip data updates, paid or lite, without restarting node.
+This extends [runk/node-maxmind](https://github.com/runk/node-maxmind).
 
 ## Install
 
