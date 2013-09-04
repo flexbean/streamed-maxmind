@@ -5,7 +5,7 @@ This wraps [runk/node-maxmind](https://github.com/runk/node-maxmind).
 
 ## Why?
 
-To introducemaxmind data updates, paid or lite, without restarting node.
+To enable maxmind geoip data updates, paid or lite, without restarting node.
 
 ## Install
 
